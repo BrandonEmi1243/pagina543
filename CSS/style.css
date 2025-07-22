@@ -1,0 +1,64 @@
+body {
+    background: rgb(189, 189, 189);
+}
+
+
+.container {
+    display: grid;
+    /*background: #0f0; */
+    width: 600px;
+    height: 600px;
+    grid-template-columns: 1fr 1fr; /* 2 columnas */
+    grid-template-rows: 1fr 1fr;    /* 2 filas */
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+}
+
+
+.algo {
+    font-size: 30px;
+    margin: 0;
+    margin-left: 10px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+
+}
+
+.algo2 {
+    font-size: 20px;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.algo3 {
+    font-size: 20px;
+    margin-top: 1px;
+}
+
+.algo67 {
+    font-size: 21px;
+    margin-left: 10px;
+}
+
+.image {
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.item {
+    font-family: Arial;
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    background: rgb(255, 255, 255);
+}
