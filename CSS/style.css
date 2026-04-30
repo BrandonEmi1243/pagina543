@@ -20,7 +20,7 @@ footer {
 }
 
 
-.algo {
+.text {
     font-size: 30px;
     margin: 0;
     margin-left: 10px;
@@ -32,26 +32,15 @@ h1 {
 
 }
 
-.algo2 {
+.text2 {
     font-size: 20px;
     margin: 0;
     margin-left: 10px;
 }
 
-.algo3 {
+.email {
     font-size: 20px;
     margin-top: 1px;
-}
-
-.algo67 {
-    font-size: 21px;
-    margin-left: 10px;
-}
-
-.image {
-    width: 40px;
-    margin-left: 10px;
-    margin-top: 10px;
 }
 
 .item {
