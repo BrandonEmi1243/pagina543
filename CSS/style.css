@@ -21,7 +21,7 @@ footer {
 
 
 .text {
-    font-size: 30px;
+    font-size: 30px !important;
     margin: 0;
     margin-left: 10px;
 }
@@ -45,7 +45,6 @@ h1 {
 
 .item {
     font-family: Arial;
-    font-size: 40px;
     border: 2px solid black;
     border-radius: 10px;
     margin: 5px;
